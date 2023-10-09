@@ -1,0 +1,2 @@
+#asking user input
+input()
